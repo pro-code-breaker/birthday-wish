@@ -8,7 +8,7 @@
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://github.com/pro-code-breaker
+    $ git clone https://github.com/pro-code-breaker/birthday-wish.git
 
     # Go into the repository
     $ cd happybirthday
@@ -29,6 +29,9 @@
 
 If you have any ideas to make it more interesting, please submit a pull request or create an issue for a feature request.
 good bye keep coding!
+
+
+andi mandi Sandi agar kisi ne mera code copy kar ke credit khud liya to uski m@@ b€ĥ€n ki ******💦💦
 
 ## 🤝 License
 
